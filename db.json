@@ -1,0 +1,164 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Hey nima",
+      "url": "https://i.ytimg.com/vi/iRGW3Hve-ao/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/iRGW3Hve-ao"
+    },
+    {
+      "id": "2",
+      "caption": "Dhevadoothan",
+      "url": "https://c.saavncdn.com/134/Devadoothan-Malayalam-2019-20190719180404-500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/mig4GtSopS4"
+    },
+    {
+      "id": "3",
+      "caption": "Starboy",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Weeknd_-_Starboy.png",
+      "embedLink": "https://www.youtube.com/embed/Rif-RTvmmss"
+    },
+    {
+      "id": "4",
+      "caption": "Etho tharattin",
+      "url": "https://musiqkaraokes.in/pub/media/catalog/product/cache/eaf89129adcb69e9196c7167b0be32ef/j/a/jana.gana.mana.2022.malayalam.film_2.jpeg",
+      "embedLink": "https://www.youtube.com/embed/SQldKkpMQC0"
+    },
+    {
+      "id": "5",
+      "caption": "Badass",
+      "url": "https://i.ytimg.com/vi/IqwIOlhfCak/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak"
+    },
+    {
+      "id": "6",
+      "caption": "Hey nima",
+      "url": "https://i.ytimg.com/vi/iRGW3Hve-ao/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/iRGW3Hve-ao"
+    },
+    {
+      "id": "7",
+      "caption": "Iruthala pakshi",
+      "url": "https://i.ytimg.com/vi/gkOxZc3eoAg/sddefault.jpg?v=61647cda",
+      "embedLink": "https://www.youtube.com/embed/gkOxZc3eoAg"
+    },
+    {
+      "id": "8",
+      "caption": "Ragnarok theme",
+      "url": "https://i.ytimg.com/vi/ukJYV-UmICM/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/ukJYV-UmICM"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Latest songs",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Hey nima",
+          "url": "https://i.ytimg.com/vi/iRGW3Hve-ao/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/iRGW3Hve-ao"
+        },
+        {
+          "id": "5",
+          "caption": "Badass",
+          "url": "https://i.ytimg.com/vi/IqwIOlhfCak/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak"
+        },
+        {
+          "id": "3",
+          "caption": "Starboy",
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Weeknd_-_Starboy.png",
+          "embedLink": "https://www.youtube.com/embed/Rif-RTvmmss"
+        },
+        {
+          "id": "8",
+          "caption": "Ragnarok theme",
+          "url": "https://i.ytimg.com/vi/ukJYV-UmICM/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/ukJYV-UmICM"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Favourite songs",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Dhevadoothan",
+          "url": "https://c.saavncdn.com/134/Devadoothan-Malayalam-2019-20190719180404-500x500.jpg",
+          "embedLink": "https://www.youtube.com/embed/mig4GtSopS4"
+        },
+        {
+          "id": "4",
+          "caption": "Etho tharattin",
+          "url": "https://musiqkaraokes.in/pub/media/catalog/product/cache/eaf89129adcb69e9196c7167b0be32ef/j/a/jana.gana.mana.2022.malayalam.film_2.jpeg",
+          "embedLink": "https://www.youtube.com/embed/SQldKkpMQC0"
+        },
+        {
+          "id": "7",
+          "caption": "Iruthala pakshi",
+          "url": "https://i.ytimg.com/vi/gkOxZc3eoAg/sddefault.jpg?v=61647cda",
+          "embedLink": "https://www.youtube.com/embed/gkOxZc3eoAg"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Hey nima",
+      "embedLink": "https://www.youtube.com/embed/iRGW3Hve-ao",
+      "timeStamp": "12/29/2023, 11:45:08 PM",
+      "id": 1
+    },
+    {
+      "caption": "Dhevadoothan",
+      "embedLink": "https://www.youtube.com/embed/mig4GtSopS4",
+      "timeStamp": "12/29/2023, 11:45:57 PM",
+      "id": 2
+    },
+    {
+      "caption": "Starboy",
+      "embedLink": "https://www.youtube.com/embed/Rif-RTvmmss",
+      "timeStamp": "12/30/2023, 02:05:20 PM",
+      "id": 3
+    },
+    {
+      "caption": "Badass",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak",
+      "timeStamp": "12/30/2023, 02:06:23 PM",
+      "id": 4
+    },
+    {
+      "caption": "Ragnarok theme",
+      "embedLink": "https://www.youtube.com/embed/ukJYV-UmICM",
+      "timeStamp": "12/30/2023, 02:06:39 PM",
+      "id": 5
+    },
+    {
+      "caption": "Starboy",
+      "embedLink": "https://www.youtube.com/embed/Rif-RTvmmss",
+      "timeStamp": "12/30/2023, 03:28:08 PM",
+      "id": 6
+    },
+    {
+      "caption": "Hey nima",
+      "embedLink": "https://www.youtube.com/embed/iRGW3Hve-ao",
+      "timeStamp": "12/30/2023, 03:28:12 PM",
+      "id": 7
+    },
+    {
+      "caption": "Badass",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak",
+      "timeStamp": "12/30/2023, 03:28:17 PM",
+      "id": 8
+    },
+    {
+      "caption": "Dhevadoothan",
+      "embedLink": "https://www.youtube.com/embed/mig4GtSopS4",
+      "timeStamp": "12/30/2023, 04:40:27 PM",
+      "id": 9
+    }
+  ]
+}
